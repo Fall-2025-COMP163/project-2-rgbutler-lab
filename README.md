@@ -145,3 +145,5 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+I was able to create the RPG as expected. You arre able to choose your characters and what weapon as well. ON GitHUb Im not seeing my name, date, and AI usage summary on here, but I have proof that I've changed it, and it is in my orginal code that I committed from VS Code. Used AI to understand a todo prompt and what I should implement. Also used AI to add emojis in the testing so I could make it more engaging for the player. 
